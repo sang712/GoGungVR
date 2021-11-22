@@ -1,0 +1,8 @@
+[core]
+packedGitLimit = 1024m
+packedGitWindowSize = 1024m
+
+[pack]
+deltaCacheSize = 2047m
+packSizeLimit = 2047m
+windowMemory = 2047m

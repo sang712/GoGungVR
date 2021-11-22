@@ -1,0 +1,78 @@
+# =============== #
+ 
+# Unity generated #
+ 
+# =============== #
+GoGungVR.apk
+
+GoGungVR/
+
+Temp/
+ 
+Obj/
+ 
+UnityGenerated/
+ 
+Library/
+ 
+Logs/
+
+Assets/Resources/OVRBuildConfig.asset
+
+Assets/Resources/OVRBuildConfig.asset.meta
+ 
+# ===================================== #
+ 
+# Visual Studio / MonoDevelop generated #
+ 
+# ===================================== #
+ 
+ExportedObj/
+ 
+*.svd
+ 
+*.userprefs
+ 
+*.csproj
+ 
+*.pidb
+ 
+*.suo
+ 
+*.sln
+ 
+*.user
+ 
+*.unityproj
+ 
+*.booproj
+ 
+ 
+ 
+# ============ #
+ 
+# OS generated #
+ 
+# ============ #
+ 
+.DS_Store
+ 
+.DS_Store?
+ 
+._*
+ 
+.Spotlight-V100
+ 
+.Trashes
+ 
+Icon?
+ 
+ehthumbs.db
+ 
+Thumbs.db
+ 
+ProjectSettings/GraphicsSettings.asset
+ 
+ProjectSettings/ProjectSettings.asset
+ 
+ProjectSettings/ProjectVersion.txt
