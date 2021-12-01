@@ -127,7 +127,7 @@
 
 <img src="Manual.assets/Untitled (1).png" alt="Untitled (1)" style="zoom:105%;" />
 
-![Untitled (2)](Manual.assets/Untitled(2)-16371329861901.png)
+![Untitled (2)](Manual.assets/Untitled (2).png)
 
 #### (5) apk 설치하기
 
